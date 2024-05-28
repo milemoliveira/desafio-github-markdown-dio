@@ -39,3 +39,12 @@ Repositório para entrega do desafio do módulo de introdução aos conceitos do
 
   ✔ Realizem alterações, commits, abra issues e pull requests
 
+#### 4. Formatação com Markdown 
+
+   - Edite o arquivo "README.md" em seu repositório.
+
+     ✔ Arquivo atualizado.
+     
+   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto. 
+
+     ✔ Todo esse arquivo foi criado utilizando markdown, testando níveis de títulos, links, citações de códigos e listas. 
