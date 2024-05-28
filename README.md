@@ -20,6 +20,7 @@ Repositório para entrega do desafio do módulo de introdução aos conceitos do
    ✔  Arquivo [readme](https://github.com/milemoliveira/desafio-github-markdown-dio/blob/main/README.md) criado. 
 
 - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
+
    ✔ Dica: para abrir o repositório no github.dev na mesma guia, pressione `.` enquanto navega em qualquer repositório. Caso queira abrir em uma guia diferente, basta pressionar `>`.
 
 - O repositório deve ser público.
