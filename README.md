@@ -37,5 +37,5 @@ Repositório para entrega do desafio do módulo de introdução aos conceitos do
    
    ✔ Feito realizado o clone do repositório no início com o comando `git clone` e, após as atualizações do githubdev, realizada a atualização no repositório local utilizando o comando `git fetch`.
 
-  ✔ Realizem alterações, Commits, abra issues e pull requests
-  
+  ✔ Realizem alterações, commits, abra issues e pull requests
+
