@@ -26,3 +26,10 @@ Repositório para entrega do desafio do módulo de introdução aos conceitos do
 - O repositório deve ser público.
 
    ✔ [Repositório público.](https://github.com/milemoliveira/desafio-github-markdown-dio)
+
+### 3. Colaboração 
+
+-  Adicione um colaborador ao seu repositório.
+
+   ✔ Criei uma conta secundária e esse commit foi feito por ela. 
+  
