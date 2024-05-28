@@ -2,14 +2,14 @@
 
 Repositório para entrega do desafio do módulo de introdução aos conceitos do git e github. 
 
-### Desafios e resultados:
+## Desafios e resultados:
 
-##### 1. Criar sua conta no Github
+#### 1. Criar sua conta no Github
 
    ✔ [Conta secundária](https://github.com/milemoliveirax) criada para testes de colaboração. 
 
  
-##### 2. Criar um Repositório
+#### 2. Criar um Repositório
 
 - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
 
